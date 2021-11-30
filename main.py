@@ -1,5 +1,5 @@
-from sort_algorithm import *
-from random import randint, shuffle
+from resources.sort_algorithm import *
+from random import shuffle
 from os import system
 
 
